@@ -1,0 +1,5 @@
+Git Commands 
+
+    Git add
+    git commit -m "some Mesage"
+    Git push ---> To store local to cloud
